@@ -13,7 +13,7 @@ The player collects coins by jumping without touching the ground.
 
 ![sandbox2](https://user-images.githubusercontent.com/102240641/183612595-b9b5092e-6ec9-4f18-abf8-9fafdd56fbc5.png)
 
-((when the player collect more than 20 ccoins) :
+(when the player collect more than 20 ccoins) :
 
 ![sandbox3](https://user-images.githubusercontent.com/102240641/183612619-a6bd28b6-b107-41d0-bdf4-ef9699634bae.png)
 
