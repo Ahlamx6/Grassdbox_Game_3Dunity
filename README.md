@@ -1,4 +1,4 @@
-# Sandbox_Game_3Dunity
+# Grassbox_Game_3Dunity
 The player collects coins by jumping without touching the ground.
 
 -	Include looping music and sound effects for the player jump and coins.
