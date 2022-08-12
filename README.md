@@ -17,9 +17,12 @@ The player collects coins by jumping without touching the ground.
 
 ![sandbox3](https://user-images.githubusercontent.com/102240641/183612619-a6bd28b6-b107-41d0-bdf4-ef9699634bae.png)
 
-Finally :
+Collected Coins :
 
 ![sandbox4](https://user-images.githubusercontent.com/102240641/183612643-c84ccfa5-d1df-4637-8382-b5622608bae0.gif)
 
 
+Main Menue :
+
+![mainmenu](https://user-images.githubusercontent.com/102240641/184447650-5ea403c3-a334-406d-a4fd-343f63d16849.gif)
 
