@@ -24,5 +24,5 @@ Collected Coins :
 
 Main Menue :
 
-![mainmenu](https://user-images.githubusercontent.com/102240641/184447650-5ea403c3-a334-406d-a4fd-343f63d16849.gif)
+![mainmenu2](https://user-images.githubusercontent.com/102240641/184448626-9e2467bf-f1c9-4b10-8323-34806cbb8bbe.gif)
 
